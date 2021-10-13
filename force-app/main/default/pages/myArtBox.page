@@ -1,0 +1,3 @@
+<!-- Practice Nested Maps for a Non-Standard Object -->
+<apex:page controller="myArtBoxController">
+</apex:page>
